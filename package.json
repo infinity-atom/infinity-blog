@@ -1,0 +1,16 @@
+{
+  "name": "infinity-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "InfinityAtom",
+  "dependencies": {
+    "html-to-text": "^9.0.5",
+    "nunjucks": "^3.2.4",
+    "showdown": "^2.1.0"
+  }
+}
